@@ -10,16 +10,18 @@ import {RentalModule} from './rental/rental.module';
 
 
 
+
 const routes : Routes =[
   {path:'', redirectTo: '/rentals', pathMatch: 'full'},
-  
+
 ]
 
 
 @NgModule({
   declarations: [
     AppComponent,
-    HeaderComponent
+    HeaderComponent,
+    
   ],
   imports: [
     RouterModule.forRoot(routes),
