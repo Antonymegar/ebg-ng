@@ -27,7 +27,7 @@ class FakeDb {
                   {
                   title: "Aberdare Ranges",
                   city: "Nyeri",
-                  street: "Kamakwa",
+                  street: "Aberdare Range",
                   category: "house",
                   image: "https://booksync-jerga-prod.s3.amazonaws.com/uploads/rental/image/5/image.jpeg",
                   bedrooms: 5,
